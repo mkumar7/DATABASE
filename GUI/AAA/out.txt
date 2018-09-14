@@ -1,0 +1,9 @@
+p001      stapler                       60                       20                       9.99                     1
+p002      TV                            19                       5                        249                      2
+p003      camera                        21                       5                        148                      2
+p004      pencil                        100                      10                       .99                      1
+p005      chair                         10                       8                        12.98                    3
+p006      lamp                          10                       6                        19.95                    1
+p007      tablet                        50                       10                       149                      2
+p008      computer                      5                        3                        499                      3
+p009      powerbank                     20                       5                        49.95                    1

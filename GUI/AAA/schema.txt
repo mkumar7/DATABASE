@@ -1,0 +1,1 @@
+Products(pid, name, qoh, qoh_threshold, original_price, discnt_category)
